@@ -1,0 +1,66 @@
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Configure stats pid to 8323
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Loading settings from /home/gianfree/.config/wandb/settings
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Loading settings from /home/gianfree/Desktop/CISI-project-MLOps/wandb/settings
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_init.py:_log_setup():476] Logging user logs to /home/gianfree/Desktop/CISI-project-MLOps/wandb/run-20230123_105415-3mgoalgp/logs/debug.log
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_init.py:_log_setup():477] Logging internal logs to /home/gianfree/Desktop/CISI-project-MLOps/wandb/run-20230123_105415-3mgoalgp/logs/debug-internal.log
+2023-01-23 10:54:15,391 INFO    MainThread:8323 [wandb_init.py:_jupyter_setup():426] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fa5877d3ac0>
+2023-01-23 10:54:15,392 INFO    MainThread:8323 [wandb_init.py:init():516] calling init triggers
+2023-01-23 10:54:15,392 INFO    MainThread:8323 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {}
+2023-01-23 10:54:15,392 INFO    MainThread:8323 [wandb_init.py:init():569] starting backend
+2023-01-23 10:54:15,392 INFO    MainThread:8323 [wandb_init.py:init():573] setting up manager
+2023-01-23 10:54:15,396 INFO    MainThread:8323 [backend.py:_multiprocessing_setup():102] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-01-23 10:54:15,400 INFO    MainThread:8323 [wandb_init.py:init():580] backend started and connected
+2023-01-23 10:54:15,416 INFO    MainThread:8323 [wandb_run.py:_label_probe_notebook():1116] probe notebook
+2023-01-23 10:54:15,418 INFO    MainThread:8323 [wandb_init.py:init():658] updated telemetry
+2023-01-23 10:54:15,474 INFO    MainThread:8323 [wandb_init.py:init():693] communicating run to backend with 60 second timeout
+2023-01-23 10:54:16,001 INFO    MainThread:8323 [wandb_run.py:_on_init():2006] communicating current version
+2023-01-23 10:54:16,125 INFO    MainThread:8323 [wandb_run.py:_on_init():2010] got version response upgrade_message: "wandb version 0.13.9 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-01-23 10:54:16,126 INFO    MainThread:8323 [wandb_init.py:init():728] starting run threads in backend
+2023-01-23 10:54:16,237 INFO    MainThread:8323 [wandb_run.py:_console_start():1986] atexit reg
+2023-01-23 10:54:16,238 INFO    MainThread:8323 [wandb_run.py:_redirect():1844] redirect: SettingsConsole.WRAP_RAW
+2023-01-23 10:54:16,238 INFO    MainThread:8323 [wandb_run.py:_redirect():1909] Wrapping output streams.
+2023-01-23 10:54:16,238 INFO    MainThread:8323 [wandb_run.py:_redirect():1931] Redirects installed.
+2023-01-23 10:54:16,239 INFO    MainThread:8323 [wandb_init.py:init():765] run started, returning control to user process
+2023-01-23 10:54:16,240 INFO    MainThread:8323 [wandb_init.py:_pause_backend():389] pausing backend
+2023-01-23 10:54:16,240 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:54:16,247 INFO    MainThread:8323 [wandb_init.py:_resume_backend():398] resuming backend
+2023-01-23 10:54:16,612 INFO    MainThread:8323 [wandb_init.py:_pause_backend():389] pausing backend
+2023-01-23 10:54:16,612 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:55:40,353 INFO    MainThread:8323 [wandb_init.py:_resume_backend():398] resuming backend
+2023-01-23 10:55:40,686 INFO    MainThread:8323 [wandb_init.py:_pause_backend():389] pausing backend
+2023-01-23 10:55:40,687 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:55:45,999 INFO    MainThread:8323 [wandb_init.py:_resume_backend():398] resuming backend
+2023-01-23 10:55:46,000 INFO    MainThread:8323 [wandb_init.py:_pause_backend():389] pausing backend
+2023-01-23 10:55:46,001 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:55:49,066 INFO    MainThread:8323 [wandb_init.py:_resume_backend():398] resuming backend
+2023-01-23 10:55:49,418 INFO    MainThread:8323 [wandb_init.py:_pause_backend():389] pausing backend
+2023-01-23 10:55:49,418 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:56:10,158 INFO    MainThread:8323 [wandb_init.py:_resume_backend():398] resuming backend
+2023-01-23 10:56:10,160 INFO    MainThread:8323 [wandb_init.py:_pause_backend():389] pausing backend
+2023-01-23 10:56:10,161 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:56:11,738 INFO    MainThread:8323 [wandb_init.py:_resume_backend():398] resuming backend
+2023-01-23 10:56:11,775 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Configure stats pid to 8323
+2023-01-23 10:56:11,776 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Loading settings from /home/gianfree/.config/wandb/settings
+2023-01-23 10:56:11,776 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Loading settings from /home/gianfree/Desktop/CISI-project-MLOps/wandb/settings
+2023-01-23 10:56:11,776 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-01-23 10:56:11,776 INFO    MainThread:8323 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-01-23 10:56:11,776 INFO    MainThread:8323 [wandb_init.py:_log_setup():476] Logging user logs to /home/gianfree/Desktop/CISI-project-MLOps/wandb/run-20230123_105611-11sbexkf/logs/debug.log
+2023-01-23 10:56:11,777 INFO    MainThread:8323 [wandb_init.py:_log_setup():477] Logging internal logs to /home/gianfree/Desktop/CISI-project-MLOps/wandb/run-20230123_105611-11sbexkf/logs/debug-internal.log
+2023-01-23 10:56:11,777 INFO    MainThread:8323 [wandb_init.py:init():516] calling init triggers
+2023-01-23 10:56:11,777 INFO    MainThread:8323 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {}
+2023-01-23 10:56:11,777 INFO    MainThread:8323 [wandb_init.py:init():535] re-initializing run, found existing run on stack: 3mgoalgp
+2023-01-23 10:56:11,782 INFO    MainThread:8323 [wandb_run.py:_finish():1753] finishing run gianfranco-romani/cisi-project/3mgoalgp
+2023-01-23 10:56:11,783 INFO    MainThread:8323 [jupyter.py:save_history():448] not saving jupyter history
+2023-01-23 10:56:11,783 INFO    MainThread:8323 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2023-01-23 10:56:11,783 INFO    MainThread:8323 [wandb_init.py:_jupyter_teardown():408] cleaning up jupyter logic
+2023-01-23 10:56:11,784 INFO    MainThread:8323 [wandb_run.py:_atexit_cleanup():1955] got exitcode: 0
+2023-01-23 10:56:11,784 INFO    MainThread:8323 [wandb_run.py:_restore():1938] restore
+2023-01-23 10:56:11,785 INFO    MainThread:8323 [wandb_run.py:_restore():1944] restore done
+2023-01-23 10:56:15,076 INFO    MainThread:8323 [wandb_run.py:_footer_history_summary_info():3408] rendering history
+2023-01-23 10:56:15,077 INFO    MainThread:8323 [wandb_run.py:_footer_history_summary_info():3440] rendering summary
+2023-01-23 10:56:15,081 INFO    MainThread:8323 [wandb_run.py:_footer_sync_info():3364] logging synced files

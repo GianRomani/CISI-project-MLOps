@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.13.0-40-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-01-23T11:11:41.915633",
+    "startedAt": "2023-01-23T11:11:40.976657",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Baseline.ipynb",
+    "root": "/home/gianfree/Desktop/CISI-project-MLOps",
+    "git": {
+        "remote": "git@github.com:GianRomani/CISI-project-MLOps.git",
+        "commit": "0f75ff28218e0c43a11d33a3f78fe8c00d8fed16"
+    },
+    "email": "gianfranco.romani@outlook.it",
+    "host": "gianfree97",
+    "username": "gianfree",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2181.24075,
+        "min": 1600.0,
+        "max": 2000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1600.0,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 2393.954,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 2394.59,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1700.0,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 2345.864,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 2325.405,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 2199.405,
+            "min": 1600.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1600.0,
+            "min": 1600.0,
+            "max": 2000.0
+        }
+    ],
+    "disk": {
+        "total": 191.24537658691406,
+        "used": 72.83295440673828
+    },
+    "memory": {
+        "total": 6.681728363037109
+    }
+}

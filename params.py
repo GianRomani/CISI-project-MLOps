@@ -1,3 +1,3 @@
 WANDB_PROJECT = "cisi-project"
 ENTITY = None 
-RAW_DATA_AT = {'CISI.ALL', 'CISI.QRY', 'CISI.REL'}
+RAW_DATA_AT = {'mappings', 'queries', 'questions'}

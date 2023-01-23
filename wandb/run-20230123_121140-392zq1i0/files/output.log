@@ -1,0 +1,70 @@
+[34m[1mwandb[39m[22m:   3 of 3 files downloaded.
+[34m[1mwandb[39m[22m:   3 of 3 files downloaded.
+[34m[1mwandb[39m[22m:   3 of 3 files downloaded.
+I am looking for information about the impact of automation on libraries and its significance for libraries in general.  This includes the increasing importance of automation in view of the proliferation of information today, and how automation can help libraries cope with this problem.  How will automation affect libraries and how should they react to the idea of automation? This study of the habits of customers of technical libraries and information departments had three main aims. 1. Determination of user demands:  to discover what items of information or documents customers seek, why they seek them and how they obtain them. 2. Classification of user groups and their demands:  to test a hypothesis; that it is possible to classify customers into meaningful user groups possessing recognizable common features and characteristic behavior patterns, and to classify group needs. 3. Estimation of the significance of the above for librarians: to measure the demand on librarians and libraries, in terms of expenditure of their time and skill, and use of stock made by different user groups. Machine indexing and text searching offer an approach to the basic problems of library automation.
+I am looking for information about the impact of automation on libraries and its significance for libraries in general.  This includes the increasing importance of automation in view of the proliferation of information today, and how automation can help libraries cope with this problem.  How will automation affect libraries and how should they react to the idea of automation?
+ This study of the habits of customers of technical libraries and information departments had three main aims. 1. Determination of user demands:  to discover what items of information or documents customers seek, why they seek them and how they obtain them. 2. Classification of user groups and their demands:  to test a hypothesis; that it is possible to classify customers into meaningful user groups possessing recognizable common features and characteristic behavior patterns, and to classify group needs. 3. Estimation of the significance of the above for librarians: to measure the demand on librarians and libraries, in terms of expenditure of their time and skill, and use of stock made by different user groups.
+ Machine indexing and text searching offer an approach to the basic problems of library automation.
+I am looking for information about the impact of automation on libraries and its significance for libraries in general.  This includes the increasing importance of automation in view of the proliferation of information today, and how automation can help libraries cope with this problem.  How will automation affect libraries and how should they react to the idea of automation?
+ This study of the habits of customers of technical libraries and information departments had three main aims. 1. Determination of user demands:  to discover what items of information or documents customers seek, why they seek them and how they obtain them. 2. Classification of user groups and their demands:  to test a hypothesis; that it is possible to classify customers into meaningful user groups possessing recognizable common features and characteristic behavior patterns, and to classify group needs. 3. Estimation of the significance of the above for librarians: to measure the demand on librarians and libraries, in terms of expenditure of their time and skill, and use of stock made by different user groups.
+ In this note we attempt to point out why boolean functions are, in general, not applicable in information retrieval systems. First, we wish to stress that a system, which supposedly is to serve a certain purpose, has to try to optimize some overall performance rather than certain detailed parts of it.  This situation is, of course, well known. Saying that a system should cater to an optimal performance implies that the reward varies with different circumstances. That is, there may always be some customers who will not agree that the system's output is satisfactory.  However, these should be relatively few.  In the case of an information retrieval system, let us consider one whose function is to furnish a reference list as a reaction to a question. So, if we have a set of documents S and a set of questions Q, the system has to assign to each question q, an answer A(q) which is a subset of S.  Naturally, this answer cannot be chosen arbitrarily; it should reflect a relation between the question and the resulting reference list.  Usually one says that the documents in the list are relevant to the question.  More precisely stated, we assume that the enquirer expects a certain reference list, namely the one he would have procured had he himself probed the documents in the set.
+0 -1.0
+1 -1.0
+2 -1.0
+3 -1.0
+4 -1.0
+5 -1.0
+6 -1.0
+7 7.0
+8 -1.0
+9 -1.0
+0 0.2847346
+1 0.25719053
+2 0.10240063
+3 0.12293756
+4 0.16833484
+5 0.2874623
+6 0.20452464
+7 0.51545334
+8 0.19411021
+9 0.20697345
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1.  1. -1. -1. -1.  5. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1.  5. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1.  5. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1.  5. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+None
+[-1.  1. -1. -1. -1.  5. -1. -1. -1. -1.]
+None
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+None
+[-1. -1. -1. -1. -1.  5. -1.  7. -1. -1.]
+None
+[-1. -1. -1. -1. -1.  5. -1.  7. -1. -1.]
+None
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+None
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+None
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+None
+[-1. -1. -1. -1. -1.  5. -1. -1. -1. -1.]
+None
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+None
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1.  1. -1. -1. -1.  5. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1.  5. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1.  5. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1.  7. -1. -1.]
+[-1. -1. -1. -1. -1.  5. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
